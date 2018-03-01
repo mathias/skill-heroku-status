@@ -15,3 +15,5 @@ Fetches Heroku platform status from the status site.
 Matt Gauger matt.gauger@gmail.com
 Copyright 2018 All Rights Reserved.
 
+Licensed under the MIT License. See LICENSE file.
+
